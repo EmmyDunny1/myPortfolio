@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+
+    max-width: 90rem;
+  /* margin-left: 2rem;
+  margin-right: 2rem; */
+  background:   rgb(77, 0, 55);
+  font-family: "Helvetica Neue";
+  }
+  
+  img {
+    width: 12rem;
+    height: 7rem;
+  }
+  
+  p{ font-size: 14px 
+  
+  }
+  
